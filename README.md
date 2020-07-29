@@ -19,3 +19,16 @@
   <li>Method</li>
   <li>Callback Function</li>
 <ol>
+
+<h2> 1.3 </h2>
+
+<ol>
+  <li>Asynchronous</li>
+  <li>Promise</li>
+  <li>Then Catch</li>
+  <li>Async Await</li>
+  <li>Try Catch</li>
+</ol>
+
+<h2> 1.4 </h2>
+  <li>Node.js</li>
