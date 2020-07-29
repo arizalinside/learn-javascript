@@ -18,7 +18,7 @@
   <li>Function</li>
   <li>Method</li>
   <li>Callback Function</li>
-<ol>
+</ol>
 
 <h2> 1.3 </h2>
 
@@ -31,4 +31,7 @@
 </ol>
 
 <h2> 1.4 </h2>
+
+<ol>
   <li>Node.js</li>
+</ol>
