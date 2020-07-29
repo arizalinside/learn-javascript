@@ -11,3 +11,11 @@
   <li>Spread Operator</li>
   <li>Destructuring</li>
 </ol>
+
+<h2> 1.2 </h2>
+  
+<ol>
+  <li>Function</li>
+  <li>Method</li>
+  <li>Callback Function</li>
+<ol>
